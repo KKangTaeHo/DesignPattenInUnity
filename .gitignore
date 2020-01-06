@@ -1,0 +1,42 @@
+# =============== #
+# Unity generated #
+# =============== #
+DesignPattenInUnity/Temp/
+DesignPattenInUnity/Library/
+DesignPattenInUnity/ExportedObj/
+DesignPattenInUnity/obj/
+DesignPattenInUnity/ProjectSettings/
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+DesignPattenInUnity/*.csproj
+DesignPattenInUnity/*.sln
+DesignPattenInUnity/.settings/settings.json
+DesignPattenInUnity/Assets/UnityVS.meta
+DesignPattenInUnity/Assets/UnityVS/
+*.svd
+*.userprefs
+*.pidb
+*.suo
+*.user
+*.unityproj
+*.booproj
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.sublime-project
+*.sublime-workspace
+.settings/launch.json
+.settings/settings.json
+.gitattributes
+*.orig
+*.orig.meta
+*.cache
