@@ -90,7 +90,7 @@ public class StatePatten : MonoBehaviour
     // 1. 상태를 캡슐화한 인터페이스 선언
     public interface PowerState
     {
-        public void PowerPush();
+      void PowerPush();
     }
 
     // 2. 인터페이스를 상속 받은 상태클래스 구현
