@@ -5,6 +5,7 @@ using UnityEngine;
 public class InterpreterPattern : MonoBehaviour
 {
     // 해석자 패턴(Interpreter Pattern)
+    // 행동 패턴중의 하나
     // 언어의 문법 또는 표현을 평가하는 패턴
     // 사용자가 표현하기 쉬운 표현을 사용하게 하고 이를 해석하는 개체를 통해 약속된 알고리즘을 수행할 수 있게 해 주는 패턴이다.
 
